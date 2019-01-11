@@ -9,7 +9,7 @@
 
 # Stories, Tasks &. Subtasks
 
-![](./StoryTaskAndSub.png)
+![](./StoryTaskAndSubTask.png)
 
 # Bugs
 
